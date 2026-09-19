@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 280" width="200" height="280" role="img" aria-label="HINGE exercise card">
+  <rect width="200" height="280" rx="18" fill="#4C51BF"/>
+  <rect x="10" y="10" width="180" height="260" rx="12" fill="none" stroke="#ffffff" stroke-width="2" opacity="0.35"/>
+  <text x="100" y="36" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="12" font-weight="700" letter-spacing="2">HINGE</text>
+  <g fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    
+    <circle cx="86" cy="96" r="14"/>
+    <path d="M90 110 L130 150"/>
+    <path d="M104 122 L72 128"/>
+    <path d="M108 126 L148 118"/>
+    <path d="M130 150 L118 214"/>
+    <path d="M130 150 L158 214"/>
+    <path d="M72 70 L72 128"/>
+    <path d="M148 70 L148 118"/>
+    
+  </g>
+  <circle cx="62" cy="22" r="3" fill="#ffffff" opacity="0.7"/>
+  <circle cx="138" cy="22" r="3" fill="#ffffff" opacity="0.7"/>
+</svg>

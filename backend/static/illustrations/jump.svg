@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 280" width="200" height="280" role="img" aria-label="JUMP exercise card">
+  <rect width="200" height="280" rx="18" fill="#D69E2E"/>
+  <rect x="10" y="10" width="180" height="260" rx="12" fill="none" stroke="#ffffff" stroke-width="2" opacity="0.35"/>
+  <text x="100" y="36" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="12" font-weight="700" letter-spacing="2">JUMP</text>
+  <g fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    
+    <circle cx="100" cy="70" r="14"/>
+    <path d="M100 84 L100 140"/>
+    <path d="M100 108 L64 92"/>
+    <path d="M100 108 L136 92"/>
+    <path d="M100 140 L72 168"/>
+    <path d="M100 140 L128 168"/>
+    <path d="M64 70 L64 92"/>
+    <path d="M136 70 L136 92"/>
+    <path d="M56 214 H144" stroke-dasharray="6 8"/>
+    
+  </g>
+  <circle cx="62" cy="22" r="3" fill="#ffffff" opacity="0.7"/>
+  <circle cx="138" cy="22" r="3" fill="#ffffff" opacity="0.7"/>
+</svg>

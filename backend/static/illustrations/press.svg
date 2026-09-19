@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 280" width="200" height="280" role="img" aria-label="PRESS exercise card">
+  <rect width="200" height="280" rx="18" fill="#C53030"/>
+  <rect x="10" y="10" width="180" height="260" rx="12" fill="none" stroke="#ffffff" stroke-width="2" opacity="0.35"/>
+  <text x="100" y="36" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="12" font-weight="700" letter-spacing="2">PRESS</text>
+  <g fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    
+    <!-- lean-forward press -->
+    <circle cx="92" cy="88" r="14"/>
+    <path d="M92 102 L108 168"/>
+    <path d="M98 124 L58 108"/>
+    <path d="M98 124 L150 108"/>
+    <path d="M108 168 L86 220"/>
+    <path d="M108 168 L140 220"/>
+    <path d="M58 70 L58 108"/>
+    <path d="M150 70 L150 108"/>
+    
+  </g>
+  <circle cx="62" cy="22" r="3" fill="#ffffff" opacity="0.7"/>
+  <circle cx="138" cy="22" r="3" fill="#ffffff" opacity="0.7"/>
+</svg>
