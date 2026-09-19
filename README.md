@@ -7,3 +7,13 @@ custom workout option, and workout history tracking.
 See [`AGENTS.md`](./AGENTS.md) for the full architecture, API contract,
 and component breakdown — it's written so backend and mobile pieces can
 be built independently and in parallel.
+
+## Mobile app
+
+```bash
+cd mobile
+npm install
+npx expo start
+```
+
+Mock mode is on by default (no backend required). See [`mobile/README.md`](./mobile/README.md).
