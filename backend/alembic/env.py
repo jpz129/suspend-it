@@ -6,6 +6,8 @@ from sqlalchemy.engine.url import make_url
 
 from app.core.config import settings
 from app.db.session import Base
+from app.models.exercise import Exercise  # noqa: F401
+from app.models.history import WorkoutHistory  # noqa: F401
 from app.models.user import User  # noqa: F401
 
 config = context.config

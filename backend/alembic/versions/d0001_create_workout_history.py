@@ -16,7 +16,7 @@ import sqlalchemy as sa
 
 
 revision = "d0001"
-down_revision = None
+down_revision = "b001_create_exercises"
 branch_labels = None
 depends_on = None
 

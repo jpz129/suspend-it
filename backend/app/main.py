@@ -1,6 +1,10 @@
 from fastapi import FastAPI
 
+from app.api.routes.ai_workouts import ai_workouts_router
 from app.api.routes.auth import auth_router
+from app.api.routes.exercises import exercises_router
+from app.api.routes.history import history_router
+from app.api.routes.workouts import workouts_router
 from app.core.config import settings
 
 app = FastAPI(title="suspend-it")
@@ -10,4 +14,7 @@ app = FastAPI(title="suspend-it")
 _ = settings
 
 app.include_router(auth_router)
-# Other routers (exercises, workouts, ai_workouts, history) will be wired at integration time.
+app.include_router(exercises_router)
+app.include_router(workouts_router)
+app.include_router(ai_workouts_router)
+app.include_router(history_router)
