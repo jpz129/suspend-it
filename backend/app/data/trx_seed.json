@@ -1,0 +1,282 @@
+[
+  {
+    "name": "TRX Row",
+    "muscle_group": "back",
+    "difficulty": "beginner",
+    "equipment": "suspension trainer",
+    "instructions": "Hold the handles with palms facing each other, lean back until the straps are taut, body in a straight line from heels to head. Pull your chest toward the anchor by driving elbows back, squeeze the shoulder blades, then lower with control.",
+    "illustration_slug": "row",
+    "source": "curated",
+    "external_id": "trx-row"
+  },
+  {
+    "name": "TRX Single-Arm Row",
+    "muscle_group": "back",
+    "difficulty": "intermediate",
+    "equipment": "suspension trainer",
+    "instructions": "Hold one handle in one hand, the other arm reaching forward for balance. Lean back with a rigid plank line and row the working elbow past the ribcage. Keep hips square; switch sides after all reps.",
+    "illustration_slug": "row",
+    "source": "curated",
+    "external_id": "trx-single-arm-row"
+  },
+  {
+    "name": "TRX Inverted Row",
+    "muscle_group": "back",
+    "difficulty": "advanced",
+    "equipment": "suspension trainer",
+    "instructions": "Walk the feet toward the anchor so the body is nearly horizontal. Pull the chest to the handles without shrugging, pause, then lower until the arms are fully extended. The more horizontal you are, the harder the row.",
+    "illustration_slug": "row",
+    "source": "curated",
+    "external_id": "trx-inverted-row"
+  },
+  {
+    "name": "TRX Face Pull",
+    "muscle_group": "back",
+    "difficulty": "intermediate",
+    "equipment": "suspension trainer",
+    "instructions": "Stand facing the anchor, arms extended at eye height. Pull the handles toward your temples while externally rotating so fists finish beside the ears. Squeeze the rear delts, then extend the arms.",
+    "illustration_slug": "pull",
+    "source": "curated",
+    "external_id": "trx-face-pull"
+  },
+  {
+    "name": "TRX Chest Press",
+    "muscle_group": "chest",
+    "difficulty": "beginner",
+    "equipment": "suspension trainer",
+    "instructions": "Face away from the anchor, handles at chest height, body in a straight plank. Bend the elbows to 90 degrees as you lower the chest between the straps, then press back to the start. Step the feet back to make it easier.",
+    "illustration_slug": "press",
+    "source": "curated",
+    "external_id": "trx-chest-press"
+  },
+  {
+    "name": "TRX Chest Fly",
+    "muscle_group": "chest",
+    "difficulty": "intermediate",
+    "equipment": "suspension trainer",
+    "instructions": "Face away from the anchor with a slight forward lean. Open the arms wide in a fly arc with a soft elbow bend until you feel a chest stretch, then squeeze the handles together in front of the chest.",
+    "illustration_slug": "chest-fly",
+    "source": "curated",
+    "external_id": "trx-chest-fly"
+  },
+  {
+    "name": "TRX Atomic Push-up",
+    "muscle_group": "chest",
+    "difficulty": "advanced",
+    "equipment": "suspension trainer",
+    "instructions": "Place both feet in the foot cradles in a push-up plank. Perform a push-up, then immediately crunch the knees toward the chest. Extend the legs back to plank and repeat. Keep the hips from sagging.",
+    "illustration_slug": "press",
+    "source": "curated",
+    "external_id": "trx-atomic-push-up"
+  },
+  {
+    "name": "TRX Squat",
+    "muscle_group": "legs",
+    "difficulty": "beginner",
+    "equipment": "suspension trainer",
+    "instructions": "Face the anchor, hold the handles at your sides with slack in the straps. Sit the hips back and down until thighs are near parallel, knees tracking over mid-foot, then drive through the heels to stand. Use the straps only for light balance.",
+    "illustration_slug": "squat",
+    "source": "curated",
+    "external_id": "trx-squat"
+  },
+  {
+    "name": "TRX Reverse Lunge",
+    "muscle_group": "legs",
+    "difficulty": "beginner",
+    "equipment": "suspension trainer",
+    "instructions": "Hold the handles facing the anchor. Step one foot back into a lunge until both knees are near 90 degrees, front heel down. Push through the front heel to return. Complete all reps, then switch legs.",
+    "illustration_slug": "lunge",
+    "source": "curated",
+    "external_id": "trx-reverse-lunge"
+  },
+  {
+    "name": "TRX Crossing Balance Lunge",
+    "muscle_group": "legs",
+    "difficulty": "advanced",
+    "equipment": "suspension trainer",
+    "instructions": "Stand on one leg facing the anchor. Reach the free leg back and across behind you into a curtsy lunge, keeping the torso tall and the standing knee tracking forward. Return to single-leg balance and repeat before switching sides.",
+    "illustration_slug": "lunge",
+    "source": "curated",
+    "external_id": "trx-crossing-balance-lunge"
+  },
+  {
+    "name": "TRX Jump Squat",
+    "muscle_group": "legs",
+    "difficulty": "intermediate",
+    "equipment": "suspension trainer",
+    "instructions": "Hold the handles for balance and drop into a squat. Explode up into a small jump, land softly with bent knees, and go straight into the next squat. Keep the straps from yanking you forward.",
+    "illustration_slug": "jump",
+    "source": "curated",
+    "external_id": "trx-jump-squat"
+  },
+  {
+    "name": "TRX Pistol Squat",
+    "muscle_group": "legs",
+    "difficulty": "advanced",
+    "equipment": "suspension trainer",
+    "instructions": "Hold the handles, lift one leg straight in front, and sit the standing hip back and down as low as you can control. Use the straps to assist as needed. Drive through the standing heel to stand without letting the raised foot touch down.",
+    "illustration_slug": "squat",
+    "source": "curated",
+    "external_id": "trx-pistol-squat"
+  },
+  {
+    "name": "TRX Hamstring Curl",
+    "muscle_group": "legs",
+    "difficulty": "intermediate",
+    "equipment": "suspension trainer",
+    "instructions": "Lie on your back with both heels in the foot cradles, hips lifted into a bridge. Curl the heels toward your glutes, keeping hips high, then extend the legs without dropping the pelvis.",
+    "illustration_slug": "hinge",
+    "source": "curated",
+    "external_id": "trx-hamstring-curl"
+  },
+  {
+    "name": "TRX Hip Hinge",
+    "muscle_group": "legs",
+    "difficulty": "beginner",
+    "equipment": "suspension trainer",
+    "instructions": "Face the anchor holding the handles at the hips. Soften the knees and push the hips back, spine long, until you feel a hamstring stretch. Squeeze the glutes to return to standing. This is the suspension version of a Romanian deadlift.",
+    "illustration_slug": "hinge",
+    "source": "curated",
+    "external_id": "trx-hip-hinge"
+  },
+  {
+    "name": "TRX Y-Raise",
+    "muscle_group": "shoulders",
+    "difficulty": "beginner",
+    "equipment": "suspension trainer",
+    "instructions": "Face the anchor, lean back with arms extended. Raise the handles overhead into a Y, thumbs up, without shrugging. Lower with control. Step closer to the anchor to increase the challenge.",
+    "illustration_slug": "press",
+    "source": "curated",
+    "external_id": "trx-y-raise"
+  },
+  {
+    "name": "TRX T-Raise",
+    "muscle_group": "shoulders",
+    "difficulty": "intermediate",
+    "equipment": "suspension trainer",
+    "instructions": "From a lean-back plank, open the arms out to the sides into a T at shoulder height, squeezing the mid-back and rear delts. Return the handles together in front of the chest.",
+    "illustration_slug": "chest-fly",
+    "source": "curated",
+    "external_id": "trx-t-raise"
+  },
+  {
+    "name": "TRX Clock Press",
+    "muscle_group": "shoulders",
+    "difficulty": "advanced",
+    "equipment": "suspension trainer",
+    "instructions": "Face away from the anchor in a split-hand press: one arm stays high (12 o'clock) while the other presses at 3 or 9 o'clock. Lower and press with a rigid torso. Alternate the high arm each set.",
+    "illustration_slug": "press",
+    "source": "curated",
+    "external_id": "trx-clock-press"
+  },
+  {
+    "name": "TRX Bicep Curl",
+    "muscle_group": "arms",
+    "difficulty": "beginner",
+    "equipment": "suspension trainer",
+    "instructions": "Face the anchor, palms up, lean back with arms extended. Curl the handles toward the temples by bending the elbows, then extend fully. Keep the elbows high and the body in a straight line.",
+    "illustration_slug": "curl",
+    "source": "curated",
+    "external_id": "trx-bicep-curl"
+  },
+  {
+    "name": "TRX Hammer Curl",
+    "muscle_group": "arms",
+    "difficulty": "intermediate",
+    "equipment": "suspension trainer",
+    "instructions": "Same lean-back setup as the bicep curl but with a neutral (hammer) grip. Curl the handles toward the ears without letting the elbows drop, then extend. This targets the brachialis and forearms.",
+    "illustration_slug": "curl",
+    "source": "curated",
+    "external_id": "trx-hammer-curl"
+  },
+  {
+    "name": "TRX Tricep Press",
+    "muscle_group": "arms",
+    "difficulty": "beginner",
+    "equipment": "suspension trainer",
+    "instructions": "Face away from the anchor, handles overhead, elbows pointing forward. Bend the elbows to lower the forearms, then extend until the arms are straight. Keep the ribs down and the body in a plank.",
+    "illustration_slug": "press",
+    "source": "curated",
+    "external_id": "trx-tricep-press"
+  },
+  {
+    "name": "TRX Plank",
+    "muscle_group": "core",
+    "difficulty": "beginner",
+    "equipment": "suspension trainer",
+    "instructions": "Place both feet in the foot cradles and set up in a forearm or high plank. Brace the abs so the body is a straight line from head to heels. Hold without letting the hips pike or sag.",
+    "illustration_slug": "plank",
+    "source": "curated",
+    "external_id": "trx-plank"
+  },
+  {
+    "name": "TRX Crunch",
+    "muscle_group": "core",
+    "difficulty": "beginner",
+    "equipment": "suspension trainer",
+    "instructions": "Feet in the cradles, high plank. Crunch the knees toward the chest, rounding slightly through the low back, then extend back to plank. Move slowly; do not swing.",
+    "illustration_slug": "core-crunch",
+    "source": "curated",
+    "external_id": "trx-crunch"
+  },
+  {
+    "name": "TRX Mountain Climber",
+    "muscle_group": "core",
+    "difficulty": "intermediate",
+    "equipment": "suspension trainer",
+    "instructions": "Feet in the cradles in a high plank. Drive one knee toward the chest, then quickly switch legs in a running rhythm. Keep the shoulders stacked over the wrists and the hips level.",
+    "illustration_slug": "plank",
+    "source": "curated",
+    "external_id": "trx-mountain-climber"
+  },
+  {
+    "name": "TRX Pike",
+    "muscle_group": "core",
+    "difficulty": "intermediate",
+    "equipment": "suspension trainer",
+    "instructions": "Feet in the cradles, high plank. Lift the hips toward the ceiling into an inverted V, legs straight, then return to plank. Think of folding at the hips rather than bending the knees.",
+    "illustration_slug": "core-crunch",
+    "source": "curated",
+    "external_id": "trx-pike"
+  },
+  {
+    "name": "TRX Oblique Crunch",
+    "muscle_group": "core",
+    "difficulty": "intermediate",
+    "equipment": "suspension trainer",
+    "instructions": "Feet in the cradles, high plank. Crunch both knees toward one elbow, rotating the hips, then extend and crunch to the other side. Keep the shoulders quiet over the hands.",
+    "illustration_slug": "twist",
+    "source": "curated",
+    "external_id": "trx-oblique-crunch"
+  },
+  {
+    "name": "TRX Body Saw",
+    "muscle_group": "core",
+    "difficulty": "advanced",
+    "equipment": "suspension trainer",
+    "instructions": "Forearm plank with feet in the cradles. Shift the whole body forward and back a few inches by rocking from the shoulders, like a saw. Do not let the low back sag at either end of the range.",
+    "illustration_slug": "plank",
+    "source": "curated",
+    "external_id": "trx-body-saw"
+  },
+  {
+    "name": "TRX Torso Rotation",
+    "muscle_group": "core",
+    "difficulty": "intermediate",
+    "equipment": "suspension trainer",
+    "instructions": "Stand sideways to the anchor holding both handles stacked at chest height. With arms extended, rotate the torso away from the anchor against the strap tension, then return. Switch sides.",
+    "illustration_slug": "twist",
+    "source": "curated",
+    "external_id": "trx-torso-rotation"
+  },
+  {
+    "name": "TRX Chest Stretch",
+    "muscle_group": "chest",
+    "difficulty": "beginner",
+    "equipment": "suspension trainer",
+    "instructions": "Face away from the anchor, hold the handles with arms open slightly below shoulder height, and step forward until you feel a gentle chest and biceps stretch. Breathe and hold, then switch the stance if needed.",
+    "illustration_slug": "stretch",
+    "source": "curated",
+    "external_id": "trx-chest-stretch"
+  }
+]
